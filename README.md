@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakariyah Ibrahim Temitope</h1>
-<h3 align="center">I'm a passionate mobile developer specializing in Flutter mobile development, currently serving at Estream Networks during my NYSC year. B.Eng Electrical and Electronics. I love building innovative solutions and contributing to open-source projects.</h3>
+<h3 align="center">I'm a passionate mobile developer specializing in Flutter mobile development, currently serving at Estream Networks during my NYSC year. B.Eng Electrical and Electronics Engineering. I love building innovative solutions and contributing to open-source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topzee001&label=Profile%20views&color=0e75b6&style=flat" alt="topzee001" /> </p>
 
