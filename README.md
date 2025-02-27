@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/topzee0o1" target="blank"><img src="https://img.shields.io/twitter/follow/topzee0o1?logo=twitter&style=for-the-badge" alt="topzee0o1" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Flutter techniques and Exloring Backend usind Node.js and Express**
+- 🌱 I’m currently learning **Advanced Flutter techniques and Exloring Backend using Node.js and Express**
 
 - 👯 I’m looking to collaborate on **Open-source Flutter projects and mobile app development.**
 
