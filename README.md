@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakariyah Ibrahim Temitope</h1>
-<h3 align="center">I'm a passionate Mobile Engineer specializing in Flutter mobile development. B.Eng Electrical and Electronics Engineering. I love building innovative solutions and contributing to open-source projects.</h3>
+<h3 align="center">I'm a passionate Mobile Engineer specializing in Flutter mobile development. B.Eng Electrical and Electronics Engineering. I love building innovative solutions and contributing to open-source projects. Currently an ALX SE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topzee001&label=Profile%20views&color=0e75b6&style=flat" alt="topzee001" /> </p>
 
