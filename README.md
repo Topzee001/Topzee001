@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sakariyah Ibrahim Temitope</h1>
-<h3 align="center">I'm a passionate Mobile Engineer specializing in Flutter mobile development. B.Eng Electrical and Electronics Engineering. I love building innovative solutions and contributing to open-source projects.</h3>
+<h3 align="center">I'm a passionate Software Engineer specializing in building scalable mobile applications and scalable backend systems. B.Eng Electrical and Electronics Engineering. I love building innovative solutions and contributing to open-source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topzee001&label=Profile%20views&color=0e75b6&style=flat" alt="topzee001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/topzee0o1" target="blank"><img src="https://img.shields.io/twitter/follow/topzee0o1?logo=twitter&style=for-the-badge" alt="topzee0o1" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Flutter techniques, Exloring Backend using Node.js and Express and a learner in the ALX SE program**
+- 🌱 I’m currently learning **Advanced Flutter techniques, Exploring new technologies**
 
-- 👯 I’m looking to collaborate on **Open-source Flutter projects and mobile app development.**
+- 👯 I’m looking to collaborate on **Open-source Flutter projects, mobile app development and Building Scalable and well structured backend systems.**
 
 - 🤝 I’m looking for help with **Optimizing state management in large-scale Flutter applications.**
 
-- 💬 Ask me about **Flutter, Firebase, Provider, http, and game development with Flame.**
+- 💬 Ask me about **Flutter, Dart, Firebase, Riverpod, and game development with Flame, DSA, Backend, python, Django, DRF, SQL, PostgreSQL**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ibrahim-sakariyah-071380183/) | [Twitter](https://x.com/Topzee0o1)**
 
-- ⚡ Fun fact **I'm a finalist in the HNG11 internship program and love contributing to open-source projects.**
+- ⚡ Fun fact **I'm a 2 X HNG finalist and love contributing to open-source projects.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect on:</h3>
 <p align="left">
 <a href="https://twitter.com/topzee0o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topzee0o1" height="30" width="40" /></a>
 <a href="https://medium.com/@ibrahimtemitope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibrahimtemitope" height="30" width="40" /></a>
