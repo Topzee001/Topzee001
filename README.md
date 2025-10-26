@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakariyah Ibrahim Temitope</h1>
 <h3 align="center">I'm a passionate Software Engineer specializing in building scalable mobile applications and scalable backend systems. B.Eng Electrical and Electronics Engineering. I love building innovative solutions and contributing to open-source projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=topzee001&label=Profile%20views&color=0e75b6&style=flat" alt="topzee001" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=topzee001&label=Profile%20views&color=0e75b6&style=flat" alt="topzee001" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/topzee0o1" target="blank"><img src="https://img.shields.io/twitter/follow/topzee0o1?logo=twitter&style=for-the-badge" alt="topzee0o1" /></a> </p>
 
