@@ -49,9 +49,9 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="40" height="40"/>
   </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" alt="drf" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
