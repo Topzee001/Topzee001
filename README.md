@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ibrahim-sakariyah-071380183/) | [Twitter](https://x.com/Topzee0o1)**
 
-- ⚡ Fun fact **I'm a 2 X HNG finalist and love contributing to open-source projects.**
+- ⚡ Fun fact **I'm a 2 X HNG Mobile finalist, certified ALX Backend Engineer and love contributing to open-source projects.**
 
 <h3 align="left">Let's Connect on:</h3>
 <p align="left">
