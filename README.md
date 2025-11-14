@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakariyah Ibrahim Temitope</h1>
-<h3 align="center">I'm a passionate Software Engineer specializing in building scalable mobile applications and scalable backend systems. B.Eng Electrical and Electronics Engineering. I love building innovative solutions and contributing to open-source projects.</h3>
+<h3 align="center">I'm a passionate Software Engineer specializing in building scalable mobile applications and backend systems. B.Eng Electrical and Electronics Engineering. I love building innovative solutions and contributing to open-source projects.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=topzee001&label=Profile%20views&color=0e75b6&style=flat" alt="topzee001" /> </p> -->
 
@@ -9,13 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Open-source Flutter projects, mobile app development and Building Scalable and well structured backend systems.**
 
-- 🤝 I’m looking for help with **Optimizing state management in large-scale Flutter applications.**
-
 - 💬 Ask me about **Flutter, Dart, Firebase, Riverpod, and game development with Flame, DSA, Backend, python, Django, DRF, SQL, PostgreSQL**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ibrahim-sakariyah-071380183/) | [Twitter](https://x.com/Topzee0o1)**
 
-- ⚡ Fun fact **I'm a 2 X HNG Mobile finalist, certified ALX Backend Engineer and love contributing to open-source projects.**
+- ⚡ Fun fact **I'm a 2 X HNG Mobile finalist, certified ALX Backend Engineer and I love contributing to open-source projects.**
 
 <h3 align="left">Let's Connect on:</h3>
 <p align="left">
