@@ -1,21 +1,32 @@
 <h1 align="center">Hi 👋, I'm Sakariyah Ibrahim Temitope</h1>
+
 <h3 align="center">
-I build scalable mobile applications and backend systems that help startups and businesses turn ideas into reliable digital products.
-Specializing in Flutter, Django, and modern API development.
+Building scalable mobile applications, backend systems, and APIs with Dart, JavaScript & Python.<br/>
+Passionate about software architecture, developer experience, and shipping products that scale.
 </h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=topzee001&label=Profile%20views&color=0e75b6&style=flat" alt="topzee001" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/topzee0o1" target="blank"><img src="https://img.shields.io/twitter/follow/topzee0o1?logo=twitter&style=for-the-badge" alt="topzee0o1" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Flutter techniques, Exploring new technologies**
+- 🌱 I’m currently deepening my knowledge of **Software Architecture, System Design, Cloud Engineering, and AI-powered Development**
 
-- 👯 I’m looking to collaborate on **Open-source Flutter projects, mobile app development and Building Scalable and well structured backend systems.**
+- 👯 I’m looking to collaborate on **Open-source projects, Flutter applications, backend APIs, developer tools, and engineering-focused products.**
 
-- 💬 Ask me about **Flutter, Dart, Firebase, Riverpod, and game development with Flame, DSA, Backend, python, Django, DRF, SQL, PostgreSQL**
+- 💬 Ask me about **Flutter, Dart, Python, Django, FastAPI, REST APIs, Riverpod, PostgreSQL, Firebase, Software Architecture, System Design, and Data Structures & Algorithms.**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ibrahim-sakariyah-071380183/) | [Twitter](https://x.com/Topzee0o1)**
 
-- ⚡ Fun fact **I'm a 2 X HNG Mobile finalist, certified ALX Backend Engineer and I love contributing to open-source projects.**
+- ⚡ Fun fact: **2× HNG Mobile Finalist • ALX Backend Engineer • I enjoy building open-source tools and sharing what I learn with the developer community.**
+
+## 🚀 About Me
+
+- 📱 Software Engineer specializing in Flutter and Python
+- 🏗️ I build scalable mobile applications and backend systems
+- 🔥 Passionate about software architecture and clean engineering practices
+- 🌍 Open-source contributor and technical writer
+- 🎤 Conference speaker (aspiring)
+- 👯 Community mentor
+- 🚀 Currently building products and helping startups ship faster
 
 <h3 align="left">Let's Connect on:</h3>
 <p align="left">
